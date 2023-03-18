@@ -1,0 +1,276 @@
+,Index,Segment
+0,1,Financials
+1,2,Financials
+2,9,Industrials
+3,27,Utilities
+4,39,Industrials
+5,60,Materials
+6,61,Industrials
+7,63,Telecommunication Services
+8,69,Consumer Discretionary
+9,100,Consumer Discretionary
+10,157,Industrials
+11,166,Financials
+12,333,Consumer Discretionary
+13,338,Industrials
+14,402,Financials
+15,413,IT
+16,423,Health Care
+17,425,Industrials
+18,503,IT
+19,559,Consumer Discretionary
+20,568,Consumer Staples
+21,623,Health Care
+22,625,Industrials
+23,630,Materials
+24,651,Consumer Discretionary
+25,686,Financials
+26,709,Materials
+27,712,Financials
+28,725,IT
+29,728,Financials
+30,729,Consumer Staples
+31,738,Industrials
+32,750,Financials
+33,768,Industrials
+34,776,Financials
+35,778,Materials
+36,783,Financials
+37,792,Materials
+38,800,Consumer Discretionary
+39,826,Industrials
+40,839,Consumer Discretionary
+41,858,Consumer Staples
+42,876,Consumer Staples
+43,883,Utilities
+44,895,Consumer Staples
+45,898,Materials
+46,917,Consumer Discretionary
+47,963,Consumer Staples
+48,977,IT
+49,999,Health Care
+50,1979,Financials
+51,2007,Health Care
+52,2008,IT
+53,2024,Consumer Discretionary
+54,2027,Consumer Discretionary
+55,2065,IT
+56,2081,Industrials
+57,2129,IT
+58,2142,Financials
+59,2146,Financials
+60,2152,IT
+61,2153,IT
+62,2183,Industrials
+63,2195,IT
+64,2202,Industrials
+65,2230,IT
+66,2236,IT
+67,2241,IT
+68,2292,Consumer Discretionary
+69,2294,Health Care
+70,2304,Consumer Staples
+71,2385,Consumer Staples
+72,2399,Health Care
+73,2415,IT
+74,2422,Health Care
+75,2424,Health Care
+76,2456,IT
+77,2465,Telecommunication Services
+78,2470,Materials
+79,2475,IT
+80,2500,Financials
+81,2568,Consumer Staples
+82,2594,Consumer Discretionary
+83,2673,Financials
+84,2736,Financials
+85,300002,IT
+86,300003,Health Care
+87,300015,Health Care
+88,300017,IT
+89,300024,Industrials
+90,300027,Consumer Discretionary
+91,300058,Consumer Discretionary
+92,300059,IT
+93,300070,Industrials
+94,300085,IT
+95,300124,Industrials
+96,300133,Consumer Discretionary
+97,300144,Consumer Discretionary
+98,300168,IT
+99,300251,Consumer Discretionary
+100,300315,IT
+101,600000,Financials
+102,600008,Utilities
+103,600009,Industrials
+104,600010,Materials
+105,600011,Utilities
+106,600015,Financials
+107,600016,Financials
+108,600018,Industrials
+109,600019,Materials
+110,600021,Utilities
+111,600023,Utilities
+112,600027,Utilities
+113,600028,Energy
+114,600029,Industrials
+115,600030,Financials
+116,600031,Industrials
+117,600036,Financials
+118,600037,Consumer Discretionary
+119,600038,Industrials
+120,600048,Financials
+121,600050,Telecommunication Services
+122,600060,Consumer Discretionary
+123,600061,Financials
+124,600066,Consumer Discretionary
+125,600068,Industrials
+126,600085,Health Care
+127,600089,Industrials
+128,600098,Utilities
+129,600100,IT
+130,600104,Consumer Discretionary
+131,600109,Financials
+132,600111,Materials
+133,600115,Industrials
+134,600118,Industrials
+135,600153,Industrials
+136,600170,Industrials
+137,600177,Consumer Discretionary
+138,600188,Energy
+139,600196,Health Care
+140,600208,Financials
+141,600252,Health Care
+142,600256,Energy
+143,600271,IT
+144,600276,Health Care
+145,600317,Industrials
+146,600332,Health Care
+147,600340,Financials
+148,600352,Materials
+149,600362,Materials
+150,600369,Financials
+151,600372,Industrials
+152,600373,Consumer Discretionary
+153,600376,Financials
+154,600383,Financials
+155,600398,Consumer Discretionary
+156,600406,Industrials
+157,600415,Industrials
+158,600446,IT
+159,600489,Materials
+160,600518,Consumer Staples
+161,600519,Consumer Staples
+162,600535,Health Care
+163,600547,Materials
+164,600570,IT
+165,600578,Utilities
+166,600582,Industrials
+167,600583,Energy
+168,600585,Materials
+169,600588,IT
+170,600600,Consumer Staples
+171,600606,Financials
+172,600637,Consumer Discretionary
+173,600642,Utilities
+174,600648,Industrials
+175,600649,Financials
+176,600660,Consumer Discretionary
+177,600663,Financials
+178,600674,Utilities
+179,600688,Energy
+180,600690,Consumer Discretionary
+181,600703,IT
+182,600704,Industrials
+183,600705,Financials
+184,600718,IT
+185,600737,Consumer Staples
+186,600739,Industrials
+187,600741,Consumer Discretionary
+188,600783,Industrials
+189,600795,Utilities
+190,600804,IT
+191,600816,Financials
+192,600820,Industrials
+193,600827,Consumer Staples
+194,600837,Financials
+195,600839,Consumer Discretionary
+196,600863,Utilities
+197,600867,Health Care
+198,600871,Energy
+199,600873,Consumer Staples
+200,600875,Industrials
+201,600886,Utilities
+202,600887,Consumer Staples
+203,600893,Industrials
+204,600895,Financials
+205,600900,Utilities
+206,600958,Financials
+207,600959,Consumer Discretionary
+208,600998,Consumer Staples
+209,600999,Financials
+210,601006,Industrials
+211,601009,Financials
+212,601016,Utilities
+213,601018,Industrials
+214,601021,Industrials
+215,601088,Energy
+216,601098,Consumer Discretionary
+217,601099,Financials
+218,601106,Industrials
+219,601111,Industrials
+220,601117,Industrials
+221,601166,Financials
+222,601169,Financials
+223,601179,Industrials
+224,601186,Industrials
+225,601198,Financials
+226,601211,Financials
+227,601225,Energy
+228,601258,Consumer Discretionary
+229,601288,Financials
+230,601318,Financials
+231,601328,Financials
+232,601333,Industrials
+233,601336,Financials
+234,601377,Financials
+235,601398,Financials
+236,601555,Financials
+237,601600,Materials
+238,601601,Financials
+239,601607,Consumer Staples
+240,601608,Industrials
+241,601618,Industrials
+242,601628,Financials
+243,601633,Consumer Discretionary
+244,601668,Industrials
+245,601669,Industrials
+246,601688,Financials
+247,601718,Consumer Discretionary
+248,601727,Industrials
+249,601766,Industrials
+250,601788,Financials
+251,601800,Industrials
+252,601808,Energy
+253,601818,Financials
+254,601857,Energy
+255,601866,Industrials
+256,601872,Industrials
+257,601888,Consumer Discretionary
+258,601898,Energy
+259,601899,Materials
+260,601901,Financials
+261,601919,Industrials
+262,601928,Consumer Discretionary
+263,601933,Consumer Staples
+264,601939,Financials
+265,601958,Materials
+266,601985,Utilities
+267,601988,Financials
+268,601989,Industrials
+269,601991,Utilities
+270,601992,Materials
+271,601998,Financials
+272,603000,IT
+273,603885,Industrials
+274,603993,Materials
